@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 frameWidth = 640
 frameHeight = 480
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 cap.set(3, frameWidth)
 cap.set(4, frameHeight)
 cap.set(10,150)
@@ -53,6 +53,7 @@ def drawOnCanvas(myPoints,myColorValues):
 
 while True:
     success, img = cap.read()
+    cv2.imshow("img", img)
     imgResult = img.copy()
     newPoints = findColor(img, myColors,myColorValues)
     if len(newPoints)!=0:

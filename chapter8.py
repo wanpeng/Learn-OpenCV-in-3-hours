@@ -35,6 +35,9 @@ def stackImages(scale,imgArray):
 def getContours(img):
     contours,hierarchy = cv2.findContours(img,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_NONE)
     for cnt in contours:
+        # 轮廓检测
+        # https://docs.opencv.org/4.5.1/dd/d49/tutorial_py_contour_features.html
+
         area = cv2.contourArea(cnt)
         print(area)
         if area>500:
