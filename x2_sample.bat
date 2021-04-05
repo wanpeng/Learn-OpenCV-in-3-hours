@@ -1,0 +1,1 @@
+opencv_createsamples.exe -info x2_positive_samples.txt -vec x2_positive_samples.vec -num 9 -w 40 -h 40

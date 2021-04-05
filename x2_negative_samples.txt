@@ -1,0 +1,14 @@
+Resources/train/img_draft/neg/0.jpg
+Resources/train/img_draft/neg/1.jpg
+Resources/train/img_draft/neg/2.jpg
+Resources/train/img_draft/neg/3.jpg
+Resources/train/img_draft/neg/4.jpg
+Resources/train/img_draft/neg/5.jpg
+Resources/train/img_draft/neg/6.jpg
+Resources/train/img_draft/neg/7.jpg
+Resources/train/img_draft/neg/8.jpg
+Resources/train/img_draft/neg/9.jpg
+Resources/train/img_draft/neg/10.jpg
+Resources/train/img_draft/neg/11.jpg
+Resources/train/img_draft/neg/12.jpg
+Resources/train/img_draft/neg/13.jpg

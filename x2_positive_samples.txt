@@ -1,0 +1,11 @@
+Resources/train/img_draft/pos/0.jpg 1 0 0 40 40
+Resources/train/img_draft/pos/1.jpg 1 0 0 40 40
+Resources/train/img_draft/pos/2.jpg 1 0 0 40 40
+Resources/train/img_draft/pos/3.jpg 1 0 0 40 40
+Resources/train/img_draft/pos/4.jpg 1 0 0 40 40
+Resources/train/img_draft/pos/5.jpg 1 0 0 40 40
+Resources/train/img_draft/pos/6.jpg 1 0 0 40 40
+Resources/train/img_draft/pos/7.jpg 1 0 0 40 40
+Resources/train/img_draft/pos/8.jpg 1 0 0 40 40
+Resources/train/img_draft/pos/9.jpg 1 0 0 40 40
+
